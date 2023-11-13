@@ -18,6 +18,10 @@ An app in [Go Lang](https://go.dev/).
 bash ./env/up.sh app
 ```
 
+## helps
+
+[Snapcraft](https://snapcraft.io/first-snap/golang)
+
 ## license
 
 [MIT](./LICENSE)
