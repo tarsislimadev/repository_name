@@ -6,7 +6,7 @@ An app in [Go Lang](https://go.dev/).
 
 ## social & donate
 
-[Donate](https://link.mercadopago.com.br/brtmvdl) - [Telegram](https://t.me/+KRmg5MlqgMk0MTg5) - [Discord](https://discord.gg/auCmnvV2)
+[Donate](https://link.mercadopago.com.br/brtmvdl) - [Telegram](https://t.me/+KRmg5MlqgMk0MTg5) - [Discord](https://discord.gg/FpxetYYp)
 
 ## how to install
 
